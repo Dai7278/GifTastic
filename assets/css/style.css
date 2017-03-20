@@ -1,0 +1,33 @@
+body {
+	background-color: black;
+}
+
+form {
+	float: right;
+	margin-top: 100px;
+}
+
+.form-group{
+	color: #00CCCC;
+}
+
+.gifsec1 {
+	margin-top: 200px;
+	color: yellow;
+}
+
+.gifsec2 {
+	margin-top: 100px;
+	color: yellow;
+}
+
+.array {
+	margin-top: 75px;
+}
+
+.btnplayer {
+	margin: 10px;
+	background-color: #00CCCC;
+	font-size: 20px;
+}
+
